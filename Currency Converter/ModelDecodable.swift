@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+struct ModelDecodable: Decodable {
+    var text: String
+    var timestamp: Int
+    var value: String
+}

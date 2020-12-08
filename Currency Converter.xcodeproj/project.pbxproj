@@ -23,7 +23,7 @@
 		3134061C257E8470006FDBC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3134061E257E8470006FDBC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		315BB579257FAAA4004F40C8 /* ModelDecodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDecodable.swift; sourceTree = "<group>"; };
-		315BB57B257FAF8D004F40C8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trashes/501/Main.storyboard; sourceTree = "<group>"; };
+		315BB57B257FAF8D004F40C8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
